@@ -1,0 +1,13 @@
+
+-- create a  folder
+-- open the folder using vscode
+-- git init
+-- create files eg: index.html, style.css, etc
+-- git add . 
+-- git commit -m "your message"
+
+-- go to Github, create new respository
+-- run below commands in the vscode terminal
+--- git remote add origin 'your repostiry path'
+----git branch -M main
+----git push -u origin main
